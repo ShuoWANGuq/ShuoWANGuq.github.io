@@ -1,7 +1,11 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+About Me
+👋 Hello there! I'm Shuo, a passionate learner and EE student at the University of Queensland. Welcome to my GitHub repository!
 
-![Image of fast.ai logo](images/logo.png)
+Background
+🎓 Currently pursuing my degree in Electrical enginerring. 
 
-## This is a title
+Purpose of This Blog
+📚 This GitHub blog serves as a digital diary of my journey through the course "COSC4630 - Comp Vision and Deep Learning" at the University of Queensland. Here, I document my learnings, insights, and projects.
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+What to Expect
+🌟 Expect to find a mix of project repositories and reflections on my learning experiences. Whether it's tackling complex algorithms or crafting elegant user interfaces, I'm excited to share my progress and discoveries with fellow learners and enthusiasts.
