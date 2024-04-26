@@ -11,7 +11,7 @@ Edge detector. Test your method on the other example sign images from
 numberplates2022.zip on Blackboard and show the results. 
 In your report discuss methods used, problems encountered, performance, and 
 possible solutions. Comment on the problems encountered in sign extraction and 
-the difficulties in designing a general sign detector.![Street Sign](images/Street sign.jpg)
+the difficulties in designing a general sign detector.
 
 ##1.My codes：
 
@@ -46,9 +46,6 @@ A)Prepossessing an image, which includes gray-scaling the image, blurring the im
 B)Analyzing the connected regions, including areas and boundaries thereof.
 C)Identifying the region with the biggest area.
 D)Showing the bounding-box of that region on the original image.
-
-##3. The results
-![Processed image](images/Image0.jpg)
 
 
 #II.The second question is:
