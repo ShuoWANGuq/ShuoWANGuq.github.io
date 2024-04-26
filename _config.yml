@@ -10,8 +10,8 @@ twitter_username:
 
 use_math: true
 
-# Using a remote theme
-remote_theme: daattali/beautiful-jekyll
+# Keeping the default theme
+theme: minima
 
 plugins:
   - jekyll-feed
@@ -31,4 +31,4 @@ kramdown:
   input: GFM
   auto_ids: true
   hard_wrap: false
-  syntax_highlighter: rouge
+  syntax_highlighter: rouge 
