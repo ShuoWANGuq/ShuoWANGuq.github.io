@@ -11,8 +11,7 @@ Edge detector. Test your method on the other example sign images from
 numberplates2022.zip on Blackboard and show the results. 
 In your report discuss methods used, problems encountered, performance, and 
 possible solutions. Comment on the problems encountered in sign extraction and 
-the difficulties in designing a general sign detector.
-![Street Sign](images/Street sign.jpg)
+the difficulties in designing a general sign detector.![Street Sign](images/Street sign.jpg)
 
 #1.My codes：
 
