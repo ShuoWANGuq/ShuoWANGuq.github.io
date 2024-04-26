@@ -1,27 +1,18 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+title: UQ student Shuo
+description: This blog documents my journey as a student in Australia, focusing on the courses I am studying. Join me as I explore new knowledge and experiences!
+
 github_username: jph00
 
-# Email and twitter are optional:
-email:
+email: wsncepu@163.com
 twitter_username:
 
-# Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
-# Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
-
-# Everything below here can be ignored, unless you want to change the theme entirely
+# Keeping the default theme
 theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -29,7 +20,7 @@ plugins:
   - jekyll-github-metadata
 
 titles_from_headings:
-  enabled:     true
+  enabled: true
   strip_title: true
   collections: true
 
