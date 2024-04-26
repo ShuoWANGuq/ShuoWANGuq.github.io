@@ -10,8 +10,8 @@ twitter_username:
 
 use_math: true
 
-# Keeping the default theme
-theme: minima
+# Using a remote theme
+remote_theme: daattali/beautiful-jekyll
 
 plugins:
   - jekyll-feed
