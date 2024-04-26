@@ -1,6 +1,6 @@
 #2024-04-26-Computer Vision notes
 
-The question is as following:
+#The question is as following:
 Many modern vehicles can detect and recognize street signs to advise on speed 
 limits and other road information. Your mission is to automatically locate the street 
 signs in the following image (see StreetSigns2024.zip from Blackboard). You may 
@@ -14,7 +14,7 @@ possible solutions. Comment on the problems encountered in sign extraction and
 the difficulties in designing a general sign detector.
 ![Street Sign](images/Street sign.jpg)
 
-1.My codes：
+#1.My codes：
 
 % read imgage
 img = imread('image13.jpg');
@@ -41,12 +41,12 @@ hold on;
 rectangle('Position', stats(max_idx).BoundingBox, 'EdgeColor', 'r', 'LineWidth', 2); 
 hold off;
 
-2.The solution I use
+#2.The solution I use
 
 A)Prepossessing an image, which includes gray-scaling the image, blurring the image with guass-filtering, detecting the edges within the image with the canny tool, and filling the holes in the image.  The image is shown after the blurring step and the filling step, for adjustment of the parameters in the blurring and edge-detecting steps.
 B)Analyzing the connected regions, including areas and boundaries thereof.
 C)Identifying the region with the biggest area.
 D)Showing the bounding-box of that region on the original image.
 
-3. The results
+#3. The results
 ![Processed image](images/Image0.jpg)
